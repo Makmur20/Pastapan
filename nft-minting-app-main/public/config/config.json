@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0x872dCD6E06ce409FabAD0de8051626Cc1af9aCDF",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x872dcd6e06ce409fabad0de8051626cc1af9acdf",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xfE86747af4c6F25632291205EE61c8e1a1113E81",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
   "NFT_NAME": "PataPan",
   "SYMBOL": "PP",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/patapan",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-1ftvmjaxjc",
   "SHOW_BACKGROUND": true
 }
