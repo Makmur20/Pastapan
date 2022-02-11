@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x86b058a5563eec6b01d8426c4eaf58a6088cef81",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x86B058A5563eEc6b01d8426c4EaF58a6088CEf81",
+  "CONTRACT_ADDRESS": "0xc1be8d17ceee2aa5d9aa91f4461d19c5a5a841ea",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xc1Be8d17ceEE2Aa5d9Aa91F4461D19c5a5A841eA",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/aaa-icehksqx1b",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/patatest1",
   "SHOW_BACKGROUND": true
 }
