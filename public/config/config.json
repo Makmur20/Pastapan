@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x7d61198d8697bc43727d8e1bb43e3e1fbf399073",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x7d61198d8697bc43727D8E1Bb43E3E1FBf399073",
+  "CONTRACT_ADDRESS": "0x5e0a2a21a7bdfbe421117882ceb3e711dc06ed8d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x5e0a2a21a7BDFbe421117882cEb3e711dC06eD8d",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -10,9 +10,9 @@
   "SYMBOL": "PP",
   "MAX_SUPPLY": 700,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.1,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pst-v2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cvs-v2",
   "SHOW_BACKGROUND": true
 }
